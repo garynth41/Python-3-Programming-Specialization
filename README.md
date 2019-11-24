@@ -8,3 +8,9 @@ This specialization teaches the fundamentals of programming in Python 3. We will
 By the end of the specialization, you’ll be writing programs that query Internet APIs for data and extract useful information from them. And you’ll be able to learn to use new modules and APIs on your own by reading the documentation. That will give you a great launch toward being an independent Python programmer. This specialization is a good next step for you if you have completed Python for Everybody but want a more in-depth treatment of Python fundamentals and more practice, so that you can proceed with confidence to specializations like Applied Data Science with Python.
 
 But it is also appropriate as a first set of courses in Python if you are already familiar with some other programming language, or if you are up for the challenge of diving in head-first.
+
+#### *SKILLS YOU WILL GAIN
+1. Json
+2. Computer Programming
+3. Python Programming
+4. Sorting
