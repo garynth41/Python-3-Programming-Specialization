@@ -1,7 +1,7 @@
 ## Python-3-Programming-Specialization
-Become a Fluent Python Programmer. Learn the fundamentals and become an independent programmer. 
+Python Programmer. Learning the fundamentals and becoming an independent programmer. 
 
-About this Specialization
+# About this Specialization
 
 This specialization teaches the fundamentals of programming in Python 3. We will begin at the beginning, with variables, conditionals, and loops, and get to some intermediate material like keyword parameters, list comprehensions, lambda expressions, and class inheritance. You will have lots of opportunities to practice. You will also learn ways to reason about program execution, so that it is no longer mysterious and you are able to debug programs when they don’t work.
 
