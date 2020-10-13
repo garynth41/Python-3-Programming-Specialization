@@ -9,7 +9,7 @@ By the end of the specialization, you’ll be writing programs that query Intern
 
 But it is also appropriate as a first set of courses in Python if you are already familiar with some other programming language, or if you are up for the challenge of diving in head-first.
 
-#### *SKILLS YOU WILL GAIN
+#### SKILLS GAINED
 1. Json
 2. Computer Programming
 3. Python Programming
